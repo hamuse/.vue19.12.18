@@ -9,6 +9,7 @@ import Seqsum from "@/components/contents/Seqsum.vue"
 import Bank from "@/components/contents/Bank.vue"
 import Todo2 from "@/components/Todo2.vue"
 import Parent from "@/components/slot/Parent.vue"
+
 Vue.use(Router)
 export default new Router({
 	mode: 'history',
